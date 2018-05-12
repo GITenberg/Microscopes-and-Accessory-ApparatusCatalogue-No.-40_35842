@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37933
     wikipedia: http://de.wikipedia.org/wiki/Ernst_Leitz_senior
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35842#Microscopes-and-Accessory-ApparatusCatalogue-No.-40
 gutenberg_bookshelf: Microscopy
 gutenberg_issued: '2011-04-12'
 gutenberg_type: Text
