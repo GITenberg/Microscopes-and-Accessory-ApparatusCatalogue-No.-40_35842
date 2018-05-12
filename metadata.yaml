@@ -1,0 +1,28 @@
+_repo: Microscopes-and-Accessory-ApparatusCatalogue-No.-40_35842
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leitz, Ernst
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '37933'
+    url: http://www.gutenberg.org/2009/agents/37933
+    wikipedia: http://de.wikipedia.org/wiki/Ernst_Leitz_senior
+description: ''
+gutenberg_bookshelf: Microscopy
+gutenberg_issued: '2011-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Microscopes -- Catalogs'
+title: 'Microscopes and Accessory Apparatus: Catalogue No. 40'
+url: http://www.gutenberg.org/ebooks/35842
